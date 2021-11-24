@@ -27,6 +27,13 @@ final application demo:
 <p align="center">
 <img align="center" alt="GIF" src="https://github.com/MatheusAraujoSouza/Technical-Test-Codex/blob/main/gifs%20e%20imagens/ezgif.com-gif-maker.gif" width="450" height="550"/>
 
+#### 5) Rest Client - World Clock
+Application that queries a server and displays the current date/time hour in local and UTC.
+A simple problem to solve using the right tools of pandas. The issue has been successfully resolved.
+
+#### 7) Entity Relationship Diagram - Simple Order Manager
+
+  
 
 
   
