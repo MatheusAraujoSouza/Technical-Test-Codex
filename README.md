@@ -18,6 +18,15 @@ Among the eight possible problems to be carried out, four were chosen. The probl
 #### 1) Validate CNPJ format and check digits
 The problem is to check if a string looks like a CNPJ. Evaluating two formats and all your code should be implemented explicitly. 
 The program works successfully and all input options are considered. 
+  
+#### 4) Simple Todo List
+Todo list application that permits the creation and deletion of tasks (texts).
+  
+final application demo:
+
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/MatheusAraujoSouza/Technical-Test-Codex/blob/main/gifs%20e%20imagens/ezgif.com-gif-maker.gif" width="450" height="550"/>
+
 
 
   
