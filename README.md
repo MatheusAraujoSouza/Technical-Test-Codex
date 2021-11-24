@@ -32,6 +32,26 @@ Application that queries a server and displays the current date/time hour in loc
 A simple problem to solve using the right tools of pandas. The issue has been successfully resolved.
 
 #### 7) Entity Relationship Diagram - Simple Order Manager
+  
+The system consists of:
+  
+• Clients
+  
+• Products
+  
+• Orders
+  
+• Any other tables/entities you may need
+
+Final result:
+<p align="center">
+<img src="https://github.com/MatheusAraujoSouza/Technical-Test-Codex/blob/main/gifs%20e%20imagens/questao7.png" width="1000" height="550"/> 
+  
+## More detailed results can be found at:
+  
+https://github.com/MatheusAraujoSouza/Technical-Test-Codex/blob/main/testcodex.ipynb
+  
+
 
   
 
