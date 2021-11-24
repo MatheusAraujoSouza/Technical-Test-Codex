@@ -5,8 +5,8 @@
 
 # Technical-Test-Codex
 
-One of the parts of the Codex summer internship process is taking the technical exam.
-Seven days were given to perform at least two problems out of eight. The computer's language is optional, but the problem requirements must be solved and not only the functioning of the code will be evaluated.
+One of the parts of the Codex Summer Internship process is taking the technical exam.
+Seven days were given to perform at least two problems out of eight. The programming language is optional, the problem requirements must be solved and not only the functioning of the code will be evaluated.
   
   
 ### Exercises performed 
@@ -16,7 +16,7 @@ Among the eight possible problems to be carried out, four were chosen. The probl
 ## Exercise analysis and conclusions 
   
 #### 1) Validate CNPJ format and check digits
-The problem is to check if a string looks like a CNPJ. Evaluating two formats and all your code should be implemented explicitly. 
+The problem is to check if a string looks like a CNPJ. Evaluating two formats and all your code should be implemented explicitly, not using any external library. 
 The program works successfully and all input options are considered. 
   
 #### 4) Simple Todo List
@@ -29,7 +29,7 @@ final application demo:
 
 #### 5) Rest Client - World Clock
 Application that queries a server and displays the current date/time hour in local and UTC.
-A simple problem to solve using the right tools of pandas. The issue has been successfully resolved.
+A simple problem to solve using the right tools of pandas. The issue has been successfully solved.
 
 #### 7) Entity Relationship Diagram - Simple Order Manager
   
